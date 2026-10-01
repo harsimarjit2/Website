@@ -1,0 +1,24 @@
+
+html {
+    background-color: #0088ff;
+  }
+
+a {
+    font-size: 16px;
+    font-style: italic;
+}
+
+img {
+    width: 150px;
+    height: 150px
+  }
+
+  .faded-image {
+    opacity: 0.8; 
+  }
+
+.box {
+      padding: 50x;
+      border: 5x solid black;
+      margin: 15px;
+  }
